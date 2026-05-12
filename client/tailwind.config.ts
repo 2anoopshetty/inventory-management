@@ -69,7 +69,7 @@ const config: Config = {
       },
     },
   },
-  plugins: [createThemes(themes)],
+  plugins: [],
 };
 
 export default config;
